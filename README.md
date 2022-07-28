@@ -11,19 +11,21 @@ Main Objetives
 * Create an HTML/CSS portfolio to showcase projects.
 * Use Bootstrap components to polish and customize the portfolio.
 
-Resources
-BeautifulSoup4 4.9.3
-DateTime 4.3
-Flask 1.1.2
-Flask-PyMongo 2.3.0
-html5lib 1.1
-Jupyter Notebook 6.1.4
-MongoDB 4.4.2
-Numpy 1.19.3
-Pandas 1.1.4
-PyMongo 3.11.2
-Splinter 0.14.0
-webdriver-manager 3.2.2
+Resources:
+* BeautifulSoup4 4.9.3
+* DateTime 4.3
+* Flask 1.1.2
+* Flask-PyMongo 2.3.0
+* html5lib 1.1
+* Jupyter Notebook 6.1.4
+* MongoDB 4.4.2
+* Numpy 1.19.3
+* Pandas 1.1.4
+* PyMongo 3.11.2
+* Splinter 0.14.0
+* webdriver-manager 3.2.2
+
+Scrapping successful: 
 
 ![image](https://user-images.githubusercontent.com/101227930/181645059-3d6ac459-d119-4e6d-a7b7-247eec231292.png)
 
@@ -31,10 +33,9 @@ webdriver-manager 3.2.2
 
 ![image](https://user-images.githubusercontent.com/101227930/181645125-e3339400-7049-4c2c-a45b-03ed206b3ace.png)
 
+Mars Hemisphere data dictionary
+
 ![image](https://user-images.githubusercontent.com/101227930/181645159-be9c7a10-25a2-4657-a82e-0323fba71762.png)
 
 
-Web Scraping Mars data from NASA using Jupyter Notebook
-BeautifulSoup and Splinter were used to automate a web browser and perform a web scrape.
 
-Mars Hemisphere data dictionary
