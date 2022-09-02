@@ -29,6 +29,7 @@ Resources:
 * Splinter 0.14.0
 * webdriver-manager 3.2.2
 
+
 Scrapping successful: 
 
 ![image](https://user-images.githubusercontent.com/101227930/181645059-3d6ac459-d119-4e6d-a7b7-247eec231292.png)
