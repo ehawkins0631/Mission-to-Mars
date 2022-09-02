@@ -15,6 +15,7 @@ Main Objetives
 * Use Bootstrap components to polish and customize the portfolio.
 
 Resources:
+
 * BeautifulSoup4 4.9.3
 * DateTime 4.3
 * Flask 1.1.2
