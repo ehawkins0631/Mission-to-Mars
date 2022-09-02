@@ -37,6 +37,7 @@ Scrapping successful:
 ![image](https://user-images.githubusercontent.com/101227930/181645125-e3339400-7049-4c2c-a45b-03ed206b3ace.png)
 
 
+
 Mars Hemisphere data dictionary
 
 ![image](https://user-images.githubusercontent.com/101227930/181645159-be9c7a10-25a2-4657-a82e-0323fba71762.png)
