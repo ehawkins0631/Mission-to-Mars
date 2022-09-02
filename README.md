@@ -6,6 +6,7 @@ Project Overview
 Create web scraping app to develop website that scrapes information and various media for Mars Exploration
 
 Main Objetives
+
 * Gain familiarity with and use HTML elements, as well as class and id attributes, to     identify content for web scraping.
 * Use BeautifulSoup and Splinter to automate a web browser and perform a web scrape.
 * Create a MongoDB database to store data from the web scrape.
