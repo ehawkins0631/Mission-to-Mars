@@ -39,3 +39,13 @@ Mars Hemisphere data dictionary
 
 
 
+Contact:
+
+email: ehawkins0631@gmail.com
+
+twitter: @evahawkins3006
+
+Linkedin https://www.linkedin.com/in/eva-hawkins-a9b333147/
+
+
+
