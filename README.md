@@ -32,6 +32,7 @@ Resources:
 
 Scrapping successful: 
 
+
 ![image](https://user-images.githubusercontent.com/101227930/181645059-3d6ac459-d119-4e6d-a7b7-247eec231292.png)
 
 ![image](https://user-images.githubusercontent.com/101227930/181645092-fc269c2e-aea8-4b94-862e-e01386cdbb4f.png)
